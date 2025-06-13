@@ -1,0 +1,7 @@
+{
+  "cookies": {
+    "sessionid": "your_session_id_here",
+    "auth_token": "your_auth_token_here"
+  },
+  "note": "请替换为你的真实 TradingView cookie 值"
+}

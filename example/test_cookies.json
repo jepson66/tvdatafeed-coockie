@@ -1,0 +1,12 @@
+[
+  {
+    "name": "sessionid",
+    "value": "your_session_value_here",
+    "domain": ".tradingview.com"
+  },
+  {
+    "name": "auth_token",
+    "value": "your_auth_token_here",
+    "domain": ".tradingview.com"
+  }
+]
